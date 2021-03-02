@@ -1,0 +1,9 @@
+{
+    "name": "instancepro/test",
+    "description": "",
+    "authors": [],
+    "require": {},
+    "autoload": {},
+    "autoload-dev": {},
+    "replace": {}
+}
